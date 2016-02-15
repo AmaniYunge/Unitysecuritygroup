@@ -37,10 +37,10 @@
 					<div class="wrapper"><img src="themes/images/carousel/slide2.jpg" style="height:350px; width:100%" alt="business themes">
 					<div class="carousel-caption">
                        <h3>What do we offer?</h3>
-                     <p>Kiswahili for foreigners
-Tourism studies,Computer studies, Ecotourism studies, Cultural tourism, English language, Culture studies, Research guidance consultancy, Translation and interpretation studies,
-Internship attachments consultancy, Communication skills in different fields, Art and artcrafts consultancy, Archaeological and prehistoric tourism, Other international languages e.g. English, Arabic, French, Chinese, Japanese, German, etc. 
-Kiswahili literature.
+                     <p>The Company head office is based in Shinyanga town, at the municipal library building
+near Tanesco offices Shinyanga. Other sites are Maswain Shinyanga, Kinondoni
+hananasif in Dar es salaam, Barabara ya 13 in Tanga and Station of Radio country fm in
+Iringa
 </p>
 					  <a href="service.php" class="btn btn-mini btn-success">Our Services</a>
                                           <p>UNITY SECURITY GROUP Co. LTD </p>
